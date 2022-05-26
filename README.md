@@ -7,7 +7,7 @@
 Aside from coding and video games some of my other hobbies include working on myself and learning new skills. I enjoy challenges and some of the earlier projects I’ve worked on/have experience in include creating websites and modifying exsisting software to fit early clients needs.</p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neoneoexe&hide_border=true&currStreakNum=a6b4a2&ring=F73D82&background=0D1111&sideLabels=ffffff&sideNums=ffffff&fire=ffffff&currStreakLabel=a6b4a2&dates=959595">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neoneoexe&hide_border=true&currStreakNum=a6b4a2&ring=F73D82&background=0D1112&sideLabels=ffffff&sideNums=ffffff&fire=ffffff&currStreakLabel=a6b4a2&dates=959595">
 </div>
 </br>
 
